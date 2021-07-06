@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  MyAlbum
 //
-//  Created by 김현균 on 2021/07/05.
+//  Created by 김현균 on 2021/07/06.
 //
 
 import UIKit

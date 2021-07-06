@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  MyAlbum
 //
-//  Created by 김현균 on 2021/07/05.
+//  Created by 김현균 on 2021/07/06.
 //
 
 import UIKit
@@ -31,7 +31,7 @@ class ViewController: UIViewController {
         alert.addAction(action)
 
         // 팝업을 띄우는 코드
-        present(alert, animated: true, completion: nil)
+        present(alert, animated: true, completion: nil)           
     }
     
 }
