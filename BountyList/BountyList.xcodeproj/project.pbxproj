@@ -14,6 +14,7 @@
 		9908B8132696A02B00B45518 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9908B8112696A02B00B45518 /* LaunchScreen.storyboard */; };
 		9908B81B2696B04400B45518 /* BountyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9908B81A2696B04400B45518 /* BountyViewController.swift */; };
 		9908B81D2696BD6C00B45518 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9908B81C2696BD6C00B45518 /* DetailViewController.swift */; };
+		9908B81F2696EA3800B45518 /* BountyInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9908B81E2696EA3800B45518 /* BountyInfo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		9908B8142696A02B00B45518 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9908B81A2696B04400B45518 /* BountyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BountyViewController.swift; sourceTree = "<group>"; };
 		9908B81C2696BD6C00B45518 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		9908B81E2696EA3800B45518 /* BountyInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BountyInfo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				9908B8082696A02A00B45518 /* SceneDelegate.swift */,
 				9908B80C2696A02A00B45518 /* Main.storyboard */,
 				9908B81A2696B04400B45518 /* BountyViewController.swift */,
+				9908B81E2696EA3800B45518 /* BountyInfo.swift */,
 				9908B81C2696BD6C00B45518 /* DetailViewController.swift */,
 				9908B80F2696A02B00B45518 /* Assets.xcassets */,
 				9908B8112696A02B00B45518 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9908B81F2696EA3800B45518 /* BountyInfo.swift in Sources */,
 				9908B8072696A02A00B45518 /* AppDelegate.swift in Sources */,
 				9908B81B2696B04400B45518 /* BountyViewController.swift in Sources */,
 				9908B8092696A02A00B45518 /* SceneDelegate.swift in Sources */,
